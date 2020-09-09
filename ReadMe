@@ -1,0 +1,7 @@
+This project was instended to be a group project, however due to the other member of my group having personal issues he was only able to contribute a minimal amount.
+His contribution was the building of the scene outside of the gun range and can be found in the function ExtraSceneSetup() in the Functions.cpp file.
+I appriciate the contribution he was able to make given his circumstances as it gave the game a much more polished look and aesthetic appeal.
+
+This was built using the TL-Engine, an in house engine created by the teaching staff at the University of Central Lancashire. 
+I have therefore only included the files that were written by me as an example of work. 
+If available, a link to a video demonstrating the project can be found in another text file located in the repositary.
